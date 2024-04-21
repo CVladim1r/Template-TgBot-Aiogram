@@ -1,4 +1,4 @@
-- [EN] - English
+English
 # Aiogram Template
 
 This is template for telegram bots by aiogram
@@ -25,7 +25,7 @@ This is template for telegram bots by aiogram
 - Remember to comply with [Telegram platform rules](https://core.telegram.org/bots) while developing your bot.
 
 
-- [RU] - Русский
+Русский
 # Шаблон Aiogram
 
 Этот шаблон предназначен для создания Telegram ботов с использованием aiogram.
